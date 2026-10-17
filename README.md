@@ -5,7 +5,6 @@ gameMessage is an iOS app with an iMessage extension for playing **chess**, **ba
 ## How to get help
 
 - **Open an issue on this repository** (the *Issues* tab above) and describe what happened. Include your iOS version and, if possible, the board text of the game where the problem occurred.
-- Or email **YOUR-SUPPORT-EMAIL-HERE**.
 
 We aim to answer within a few days.
 
