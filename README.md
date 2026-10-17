@@ -66,4 +66,4 @@ If this policy ever changes, the new version will be published at this same addr
 
 ## Contact
 
-Questions about this policy: open an issue on this repository or email **YOUR-SUPPORT-EMAIL-HERE**.
+Questions about this policy: open an issue on this repository.
